@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Caio Coelho</h1>
+<h1 align="center">Hi 👋, I'm Caio Coelho</h1>]
+crc[praia]"https://realcms2021.s3.sa-east-1.amazonaws.com/img/1638989502-caribe-praia.webp"
+
+
 <h3 align="center">A passionate student from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiosabinoc&label=Profile%20views&color=0e75b6&style=flat" alt="caiosabinoc" /> </p>
