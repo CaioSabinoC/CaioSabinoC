@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Coelho</h1>
 
-![praia](https://realcms2021.s3.sa-east-1.amazonaws.com/img/1638989502-caribe-praia.webp)
+![praia](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxIsws3H9Dbq29wPNo-KLThmpuz-MSyT_8w&s)
 
 
 <h3 align="center">A passionate student from Brazil</h3>
