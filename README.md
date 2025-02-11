@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caio Coelho</h1>]
+<h1 align="center">Hi 👋, I'm Caio Coelho</h1>
 [praia]"https://realcms2021.s3.sa-east-1.amazonaws.com/img/1638989502-caribe-praia.webp"
 
 
