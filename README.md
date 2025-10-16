@@ -1,25 +1,81 @@
-<h1 align="center">Hi 👋, I'm Caio Sabino Coelho</h1>
-<h3 align="center">A passionate student from Porto de Galinhas</h3>
+# 🙃 Caio Sabino Coelho
 
-![praia](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxIsws3H9Dbq29wPNo-KLThmpuz-MSyT_8w&s)
+**`Desenvolvedor FullStack em andamento...`**
 
-- 🔭 I’m currently working on **Redução de Resíduos**
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprender novas ferramentas e linguagens de programação. Tenho experiência profissional em áreas como administração, atendimento e turismo, o que me ajudou a desenvolver habilidades em organização, comunicação e trabalho em equipe.
 
-- 🌱 I’m currently learning **Technology Things**
+Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento web, Java e bancos de dados, criando projetos práticos para fortalecer meu portfólio.
 
-- 👨‍💻 All of my projects are available at [https://github.com/CaioSabinoC](https://github.com/CaioSabinoC)
-
-- 💬 Ask me about **Beach, American Football, Antropology**
-
-- 📫 How to reach me **caiosabinocoelho@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/caio sabino coelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio sabino coelho" height="30" width="40" /></a>
-<a href="https://instagram.com/caiosabinoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiosabinoc" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/caiosabinoc/">
+        <img 
+            alt="instagram" 
+            title="meu perfil" 
+            src=https://custom-icon-badges.demolab.com/badge/instagram-red.svg?logo=instagram
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/caio-sabino-coelho-7333591b8/?originalSubdomain=br">
+        <img 
+            alt="Linkedin"
+            title="meu perfil"
+            src=https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?logo=linkedin
+        />
+    </a> 
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="java"
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img 
+    align="left" 
+    alt="MySql
+    title=MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Github"
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/><br>
+
+### Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=CaioSabinoC&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiosabinoc&show_icons=true&locale=en&layout=compact" alt="caiosabinoc" /></p>
