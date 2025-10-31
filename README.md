@@ -67,15 +67,18 @@ Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento web,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 /><br>
 
-### Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CaioSabinoC&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
-
+### Formação
+<p align="left">
+    <a href="C:/Users/caios/OneDrive/Desktop/Docs_Interc%C3%A2mbio/representacao_visual.pdf">
+        <img 
+            alt="UFPE" 
+            title="meu curriculo" 
+            src=https://custom-icon-badges.demolab.com/badge/HOTELARIA_BACHAREL-UFPE-red.svg?
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/caio-sabino-coelho-7333591b8/?originalSubdomain=br">
+        <img 
+            alt="Senac"
+            title="English"
+            src="https://custom-icon-badges.demolab.com/badge/BEGINNER'S_SMRT_ENGLISH-SENAC-blue.svg?"
+    </a> 
