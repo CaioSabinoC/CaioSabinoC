@@ -37,7 +37,7 @@ Atualmente, estou focado em **desenvolvimento web**, com estudos voltados para *
 <p align="left">
   <img alt="ADS" title="Análise e Desenvolvimento de Sistemas" src="https://custom-icon-badges.demolab.com/badge/ADS-Em_Andamento-green.svg?logo=graduation-cap"/>
   <img alt="UFPE" title="Bacharelado em Hotelaria - UFPE" src="https://custom-icon-badges.demolab.com/badge/Hotelaria-UFPE-red.svg?logo=hotel"/>
-  <img alt="English" title="Beginner's Smart English - Senac" src="https://custom-icon-badges.demolab.com/badge/Beginner's_Smart_English-Senac-blue.svg?logo=google-translate"/>
+  <img alt="English" title="Beginner's Smart English - Senac" src="https://custom-icon-badges.demolab.com/badge/Beginner's_Smart_English-Senac-blue.svg?"/>
 </p>
 
 ---
