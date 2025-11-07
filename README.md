@@ -5,8 +5,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 
 Atualmente, estou focado em **desenvolvimento web**, com estudos voltados para **Java, React e bancos de dados (MySQL)**, criando **projetos práticos** para fortalecer meu portfólio e desenvolver soluções criativas e seguras.  
 
-> 💡 Acredito que aprender é um processo contínuo, e cada projeto é uma nova oportunidade de evoluir.
-
 ---
 
 ### 🌐 Conecte-se comigo
@@ -38,8 +36,53 @@ Atualmente, estou focado em **desenvolvimento web**, com estudos voltados para *
 ### 🎓 Formação
 <p align="left">
   <img alt="ADS" title="Análise e Desenvolvimento de Sistemas" src="https://custom-icon-badges.demolab.com/badge/ADS-Em_Andamento-green.svg?logo=graduation-cap"/>
-  <img alt="UFPE" title="Hotelaria - UF
+  <img alt="UFPE" title="Bacharelado em Hotelaria - UFPE" src="https://custom-icon-badges.demolab.com/badge/Hotelaria-UFPE-red.svg?logo=hotel"/>
+  <img alt="English" title="Beginner's Smart English - Senac" src="https://custom-icon-badges.demolab.com/badge/Beginner's_Smart_English-Senac-blue.svg?logo=google-translate"/>
+</p>
 
+---
 
+### 🗣️ Idiomas
+- 🇺🇸 **Inglês:** Intermediário  
+- 🇪🇸 **Espanhol:** Intermediário  
+- 🇧🇷 **Português:** Nativo  
 
+---
+
+### 🚀 Projetos em Destaque
+
+🔹 **[Reciclito](https://github.com/caio-sabinoc/reciclito)**  
+Jogo educativo sobre **descarte correto de lixo** para crianças de 6 a 14 anos.  
+📍 Foco: educação ambiental, gamificação e impacto social.
+
+🔹 **[CyberGuard](https://github.com/caio-sabinoc/cyberguard)**  
+Aplicativo voltado à **segurança digital**, com ferramentas de análise de boletos e verificação de links suspeitos.  
+🧠 Foco: conscientização e prevenção de golpes digitais.
+
+🔹 **[Pizza da Toca - Sistema Interno](https://github.com/caio-sabinoc/pizzadatoca)**  
+Sistema para controle de pedidos, estoque e entregas da pizzaria **Pizza da Toca**, localizada em Porto de Galinhas.  
+🍕 Foco: eficiência operacional e gestão de delivery.
+
+---
+
+### 🧩 Soft Skills
+- Comunicação e atendimento ao público  
+- Organização e trabalho em equipe  
+- Resolução de problemas  
+- Criatividade e aprendizado contínuo  
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caio-sabinoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sabinoc&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 🎯 Objetivo
+Continuar evoluindo como **desenvolvedor full stack**, aplicando meus conhecimentos em **projetos reais** e colaborando com **equipes que buscam inovação, qualidade e impacto positivo.**
+
+---
 
