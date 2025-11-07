@@ -73,16 +73,4 @@ Sistema para controle de pedidos, estoque e entregas da pizzaria **Pizza da Toca
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caio-sabinoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-sabinoc&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-### 🎯 Objetivo
-Continuar evoluindo como **desenvolvedor full stack**, aplicando meus conhecimentos em **projetos reais** e colaborando com **equipes que buscam inovação, qualidade e impacto positivo.**
-
----
 
