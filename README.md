@@ -63,6 +63,10 @@ Aplicativo voltado à **segurança digital**, com ferramentas de análise de bol
 Sistema para controle de pedidos, estoque e entregas da pizzaria **Pizza da Toca**, localizada em Porto de Galinhas.  
 🍕 Foco: eficiência operacional e gestão de delivery.
 
+🔹 **[Semeia Web]**
+Sistema desenvolvido para gerenciar o cadastro de espécies, sementes, lotes e distribuições realizadas pelo IPA.
+🌱 Foco: organização de dados agrícolas, rastreabilidade de sementes e apoio à tomada de decisão para instituições de pesquisa e agricultura.
+
 ---
 
 ### 🧩 Soft Skills
